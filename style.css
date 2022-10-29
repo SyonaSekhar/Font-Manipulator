@@ -1,0 +1,26 @@
+
+.notes{
+    font-size: 14px;
+    color: black;
+   }
+   .heading{
+       font-size: 23px;
+       margin: 0px;
+       width: 100%;
+       color: red;
+       box-shadow: 5px 5px 5px grey;
+   }
+   .footer{
+       position: fixed;
+       color: aqua;
+       background-color: black;
+       text-align: center;
+       width: 100%;
+       bottom: 0;
+       padding:5px;
+   }
+   canvas{
+       border: 5px solid white;
+       border-radius: 20px;
+       box-shadow: 5px 5px 5px grey;
+   }
